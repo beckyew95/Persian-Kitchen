@@ -1,0 +1,62 @@
+head {
+  text-align: center;
+}
+
+* {
+  font-family: 'Muli', sans-serif;
+  color: black;
+  text-align: center;
+  background-color: white;
+}
+
+header {
+      text-align: center;
+}
+
+img {
+  margin: 40px 0px 0px 0px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+ul {
+  padding: 10px;
+  background: purple;
+  color: white
+}
+
+li {
+  display: inline;
+  padding: 0px 30px 0px 30px;
+  background: purple;
+  font-family: 'impact', sans-serif;
+}
+
+h1 {
+  color: purple;
+  font-weight: 400;
+  padding-top: 40px;
+  font-family: 'Impact', sans-serif;
+}
+
+p1 {
+  font-size: 22px;
+  display: block;
+}
+
+input {
+     border: 0px;
+     padding: 5px;
+     font-size: 18px;
+   }
+
+input [type="submit"] {
+    background: purple;
+    color: white;
+  }
+
+input [placeholder="your email"] {
+    background: white;
+    color: purple;
+    font-family: 'Lucida Handwriting', cursive;
+  }
