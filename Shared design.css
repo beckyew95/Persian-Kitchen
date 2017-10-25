@@ -1,0 +1,28 @@
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #840ba3;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+.main {
+    margin-top: 30px;
+
+img.resize{
+	height: 1000px;
+	width:1000px;
+}

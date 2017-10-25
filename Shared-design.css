@@ -1,0 +1,39 @@
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #840ba3;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+    justify-content: left;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: calibri;
+    font-size: 20px;
+
+}
+
+.main {
+    margin-top: 80px;
+}
+
+.img-logo
+{
+	position: fixed;
+	right: 0;
+	top: 0;
+	max-width: 100px;
+	max-height: 100px; 
+	float: right;
+}
+
+
